@@ -53,6 +53,7 @@ $(function() {
     var id = $(this).data('productId');
     var prod = $(this).data('product');
     console.log('purchasing', prod.name, id);
+    // e.g. navigator.mozPay().purchase(...)
     _mozPay_purchase(id, function(error) {
       if (error) {
         console.log('error purchasing', id, ':', error);
