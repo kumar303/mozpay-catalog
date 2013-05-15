@@ -49,7 +49,7 @@ if (!config.products) {
         '64': absURL('/img/kiwi_64.png'),
         '128': absURL('/img/kiwi_128.png'),
       },
-      pricePoint: 2
+      pricePoint: 1
     },
     '2': {
       name: 'Magic Cheese',
@@ -60,7 +60,7 @@ if (!config.products) {
         '64': absURL('/img/cheese_64.png'),
         '128': absURL('/img/cheese_128.png'),
       },
-      pricePoint: 4
+      pricePoint: 10
     }
   }
 }
