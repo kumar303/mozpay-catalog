@@ -36,7 +36,7 @@ var config = {
 config.extHost = config.host;
 config.extPort = config.port;
 
-settings.apply(config);
+settings(config);
 
 if (!config.products) {
   config.products = {
