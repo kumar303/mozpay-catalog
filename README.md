@@ -1,5 +1,7 @@
 # mozpay-catalog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumar303/mozpay-catalog.svg)](https://greenkeeper.io/)
+
 This is an *experimental* prototype of a product catalog server for
 [navigator.mozPay()](https://developer.mozilla.org/en-US/docs/Apps/Publishing/In-app_payments).
 
