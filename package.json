@@ -6,9 +6,9 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "express": "3.1.0",
-    "mozpay": "0.0.3",
-    "node-uuid": "1.4.0",
-    "qs": "0.5.3"
+    "express": "4.15.2",
+    "mozpay": "0.0.5",
+    "node-uuid": "1.4.8",
+    "qs": "6.4.0"
   }
 }
